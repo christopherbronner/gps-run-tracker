@@ -1,6 +1,6 @@
 GPS Run Tracker
 Christopher Bronner -- christopher.bronner@gmail.com
-18 May 2018
+22 May 2018
 
 This python script imports gpx files recorded with the Runkeeper app and extracts statistics.
 
