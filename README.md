@@ -4,7 +4,7 @@ Christopher Bronner -- christopher.bronner@gmail.com
 
 This python script imports gpx files recorded with the Runkeeper app and extracts statistics.
 
-<img src="gps-run.png">
+<img src="gps-map.png">
 
 DESCRIPTION OF FILES
 ====================================
