@@ -4,7 +4,7 @@ Christopher Bronner -- christopher.bronner@gmail.com
 
 This python script imports gpx files recorded with the Runkeeper app, extracts statistics, visualizes runs and compares multiple runs.
 
-Check out the annotated notebooks 'GPS tracker.ipynb' and 'GPS multiple file analysis.ipynb' to see what the script does!
+Check out the annotated notebooks 'GPS tracker.ipynb' and 'run stat analysis.ipynb' to see what the script does!
 
 <img src="gps-map.png">
 
