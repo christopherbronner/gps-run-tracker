@@ -6,7 +6,7 @@ This python script imports gpx files recorded with the Runkeeper app, extracts s
 
 Check out the annotated notebooks 'GPS tracker.ipynb' and 'run stat analysis.ipynb' to see what the script does!
 
-<img src="gps-map.png">
+<img src="trace on map.png">
 
 DESCRIPTION OF FILES
 ====================================
